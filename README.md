@@ -1,2 +1,2 @@
 # learning_git
-this is learnign phase
+this is learning phase
